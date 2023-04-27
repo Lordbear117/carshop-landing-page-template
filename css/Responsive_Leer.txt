@@ -1,0 +1,1 @@
+responsive.css permite que el sitio se adapte facilmente a diferentes resoluciones.
